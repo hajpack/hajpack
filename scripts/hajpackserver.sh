@@ -1,11 +1,7 @@
 #!/bin/bash
 
 # check if packwiz is installed
-if ! command -v packwiz &> /dev/null
-then
-    echo "[ERROR] packwiz could not be found! check your PATH or install packwiz"
-    exit 1
-fi
+if ! command -v packwiz &> /dev/null; then echo "[ERROR] packwiz could not be found! check your PATH or install packwiz"; exit 1; fi
 
 # arg variables
 packwiz=""
@@ -30,20 +26,14 @@ help() {
 cleanup() {
     echo -n "This will remove everything that is not this script! Are you sure? (y/N) "
     read -r response
-    if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]
-    then
-        # copy script to temp file
+    if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]; then
         cp hajpackserver.sh /tmp/hajpackserver.sh
-        # remove everything
         echo "[INFO] Removing everything!"
         echo "This will remove:"
         ls -A | grep -v "hajpackserver.sh"
         rm -rfvI * .*
-        # copy script back
         cp /tmp/hajpackserver.sh hajpackserver.sh
-    else
-        echo "[INFO] Aborted deletion"
-    fi
+    else; echo "[INFO] Aborted deletion"; fi
 }
 
 setup() {
@@ -52,37 +42,17 @@ setup() {
 }
 
 run() {
-    if [ -z "$1" ]
-    then
-        echo "[ERROR] Invalid arguments passed to function run_packwiz!"
-        exit 1
-    fi
-    if [[ ! $1 == *pack.toml ]]
-    then
-        echo "[WARN] $1 does not end with pack.toml! If you are encountering a token recognition error, this is likely the cause."
-    fi
+    # check arguments
+    if [ -z "$1" ]; then echo "[ERROR] Invalid arguments passed to function run_packwiz!"; exit 1; fi
+    if [[ ! $1 == *pack.toml ]]; then echo "[WARN] $1 does not end with pack.toml! If you are encountering a token recognition error, this is likely the cause."; fi
+
+    # run packwiz
     echo "[INFO] Running packwiz installer with server at $1" 
     java -jar packwiz-installer-bootstrap.jar -g -s server $1
 
-    # TODO: make this not garbage
-    command="java" # if you want to tweak the command further to personal preference, do it here
-    # if $1 is not set, set it to 8G
-    # there are probably better ways to do this
-    if [ -z "$2" ]
-    then
-        command="$command -Xmx8G -Xms8G"
-    else
-        command="$command -Xmx$2 -Xms$2"
-    fi
-
-    command="$command -jar server.jar"
-
-    # if argument 3 passed to the function is false add nogui to the command
-    if [ $3 == false ]
-    then
-        command="$command nogui"
-    fi
-
+    # run server (if you want to change the server command, change it here!)
+    command="java -Xmx$ram -Xms$ram -jar server.jar"
+    if [ $3 == false ]; then command="$command nogui"; fi
     echo "[INFO] Running server with command: $command"
     $command
 }
@@ -98,21 +68,9 @@ while getopts 'scgp:r:' flag; do
     *) help ;;
   esac
 done
-
 if [ $OPTIND -eq 1 ]; then help; fi
 
 # run the actual commands
-if [ $setup == true ]
-then
-    setup
-fi
-
-if [ $clean == true ]
-then
-    cleanup
-fi
-
-if [ -n "$packwiz" ]
-then
-    run $packwiz $ram $gui
-fi
+if [ $setup == true ]; then setup; fi
+if [ $clean == true ]; then cleanup; fi
+if [ -n "$packwiz" ]; then run $packwiz $ram $gui; fi
