@@ -3,3 +3,16 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# Exclude per-instance data
+
+options.txt
+icon.png
+
+coremods/
+resourcepacks/
+saves/
+screenshots/
+server-resource-packs/
+shaderpacks/
+texturepacks/
