@@ -2,7 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "292014c16b30631d5c70997da09b637deec20997c5d19952666e90e77c4b2bad"
+hash = "b3561d15b4cb62add9bf7211dd2b13c73762f156546602081b8185c0027f41aa"
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "0c2ef257e81e629a1016ef48089d71c442152ac2a565150456cb979afb663c44"
+metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
