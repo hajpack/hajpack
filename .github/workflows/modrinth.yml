@@ -24,11 +24,8 @@ jobs:
     - name: Install Packwiz
       run: go install github.com/packwiz/packwiz@latest
     
-    - name: Add go/bin to PATH
-      run: echo "::add-path::$(go env GOPATH)/bin"
-    
     - name: Export Modrinth
-      run: packwiz modrinth export -o hajpack.mrpack
+      run: $(go env GOPATH)/bin/packwiz modrinth export -o hajpack.mrpack
 
     - name: Upload Artifact
       uses: actions/upload-artifact@v2
