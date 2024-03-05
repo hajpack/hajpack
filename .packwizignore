@@ -7,3 +7,6 @@
 
 # .github
 /.github/
+
+# scripts
+/scripts/
