@@ -47,16 +47,17 @@ After installing packwiz-installer, you can run the pack by clicking the play bu
 In order to test the pack server-side, in order to make this easier, we provide a script that will automatically build the pack and start the server. To use this script, you will need to have a packwiz server running (use `packwiz serve` to start the server, this will start a server on http://localhost:8080).
 
 > 💡 This assumes that your packwiz server is hosted on http://localhost:8080 (the default for packwiz serve), please change it if it is hosted somewhere else!
+> To clean up, change ram amount, or enable gui check the other arguments by just running `./hajpackserver.sh`!
 
 To use the script you will first need to create a directory with only the scripts folder, from there you can run the following commands in order to do initial setup:
 ```bash
-./hajpackserver.sh --setup
-./hajpackserver.sh --packwiz http://localhost:8080/pack.toml
+./hajpackserver.sh -s
+./hajpackserver.sh -p http://localhost:8080/pack.toml
 ```
 
 After the initial setup, you can run the following command to start the server:
 ```bash
-./hajpackserver.sh --packwiz http://localhost:8080/pack.toml
+./hajpackserver.sh -p http://localhost:8080/pack.toml
 ```
 
 ### Contribution guidelines
