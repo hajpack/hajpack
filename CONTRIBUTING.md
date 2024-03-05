@@ -40,12 +40,25 @@ Then, you will need to add the following command to your Pre-launch command (Edi
 $INST_JAVA -jar "$INST_DIR"/packwiz-installer-bootstrap.jar http://localhost:8080/pack.toml
 ```
 
-#### Running a server
-To run a packwiz server, you will need to run the following command:
+#### Running the pack
+After installing packwiz-installer, you can run the pack by clicking the play button in the PrismLauncher. You will also have to have the packwiz server running in order to run the pack. (use `packwiz serve` to start the server, this will start a server on http://localhost:8080)
+
+#### Server-side testing
+In order to test the pack server-side, in order to make this easier, we provide a script that will automatically build the pack and start the server. To use this script, you will need to have a packwiz server running (use `packwiz serve` to start the server, this will start a server on http://localhost:8080).
+
+> 💡 This assumes that your packwiz server is hosted on http://localhost:8080 (the default for packwiz serve), please change it if it is hosted somewhere else!
+> To clean up, change ram amount, or enable gui check the other arguments by just running `./hajpackserver.sh`!
+
+To use the script you will first need to create a directory with only the scripts folder, from there you can run the following commands in order to do initial setup:
 ```bash
-packwiz serve
+./hajpackserver.sh -s
+./hajpackserver.sh -p http://localhost:8080/pack.toml
 ```
-<!-- yes i really stretched this single command into a entire section -->
+
+After the initial setup, you can run the following command to start the server:
+```bash
+./hajpackserver.sh -p http://localhost:8080/pack.toml
+```
 
 ### Contribution guidelines
 > 💡 This section is a WIP!
@@ -55,4 +68,8 @@ packwiz serve
 If you have a mod suggestion, please open an pull request or issue with the mod suggestion.
 
 #### Commits
+> 💡 This section is out of date! Please check the [Branches](#branches) section for more information!
 When making commits that are not hotfixes, please open a pull request and wait for it to be reviewed before merging it.
+
+#### Branches
+Commits should be made to the `dev` branch, and then merged into `main` when they are ready to be released. This is so it doesnt take ages to add a new mod to the pack.
