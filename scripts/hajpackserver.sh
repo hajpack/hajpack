@@ -33,7 +33,9 @@ cleanup() {
         ls -A | grep -v "hajpackserver.sh"
         rm -rfvI * .*
         cp /tmp/hajpackserver.sh hajpackserver.sh
-    else; echo "[INFO] Aborted deletion"; fi
+    else
+        echo "[INFO] Aborted deletion"; 
+    fi
 }
 
 setup() {
