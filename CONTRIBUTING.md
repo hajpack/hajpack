@@ -37,7 +37,7 @@ To install packwiz-installer, you will need to download [packwiz-installer-boots
 
 Then, you will need to add the following command to your Pre-launch command (Edit -> Settings -> Custom commands -> Pre-launch command):
 ```bash
-$INST_JAVA -jar "$INST_DIR"/packwiz-installer-bootstrap.jar http://localhost:8080/pack.toml
+$INST_JAVA -jar "$INST_MC_DIR"/packwiz-installer-bootstrap.jar http://localhost:8080/pack.toml
 ```
 
 #### Running the pack
