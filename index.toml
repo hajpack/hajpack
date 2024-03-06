@@ -35,6 +35,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/hexal.pw.toml"
+hash = "f60b7c4df8ee3d1e35c05a23573cc15780f49a616d947f37d1e9bff02007633a"
+metafile = true
+
+[[files]]
 file = "mods/hexcasting.pw.toml"
 hash = "e85f9f90afb55c37497e82f36a30f497654097b4bda54540d461a91984bea542"
 metafile = true
