@@ -54,6 +54,11 @@ hash = "dd1ff98088e0cbc0ff42cef65efd3d71488ab4e8dbfe54d870d05283d9677303"
 metafile = true
 
 [[files]]
+file = "mods/hexdim.pw.toml"
+hash = "6519868350b3491b263ed9c5467315e6b4dc99195de991238b911aee1fbba802"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true

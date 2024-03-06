@@ -1,0 +1,13 @@
+name = "Hexxy Dimensions"
+filename = "hexxy-dimensions-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P7dNk96I/versions/JIc2ohe8/hexxy-dimensions-1.1.1.jar"
+hash-format = "sha1"
+hash = "ac9666825204920ab13e46136b68c1bb96ba4206"
+
+[update]
+[update.modrinth]
+mod-id = "P7dNk96I"
+version = "JIc2ohe8"
