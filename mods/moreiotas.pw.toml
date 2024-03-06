@@ -1,7 +1,0 @@
-name = "MoreIotas"
-filename = "moreiotas-fabric-1.20.1-0.1.0-4.jar"
-
-[download]
-url = "https://raw.githubusercontent.com/walksanatora/HexxyTestPack/main/mods/moreiotas-fabric-1.20.1-0.1.0-4.jar"
-hash-format = "sha256"
-hash = "9cc2e20e1b067944ba6ef76b9751705b172a6ebf7766bf62b5d87c8875f3d166"
