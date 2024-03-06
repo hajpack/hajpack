@@ -56,7 +56,7 @@ run() {
     command="java -Xmx$ram -Xms$ram -jar server.jar"
     if [ $3 == false ]; then command="$command nogui"; fi
     echo "[INFO] Running server with command: $command"
-    $command
+    eval $command
 }
 
 # parse arguments
