@@ -10,6 +10,16 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/badstdout.pw.toml"
+hash = "81e013fb9ee8897ddf7c7f01de84781028507a6ff6888e6297cc0be5b52498c8"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "6746da76c549fd72088cc1ca93ab31e61837d13b76edf64f3006898713004fe4"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "0c2ef257e81e629a1016ef48089d71c442152ac2a565150456cb979afb663c44"
 metafile = true
@@ -35,13 +45,18 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "11312f710b3e2b35fbecc7b0a6406d630634680f13a0a3d640e19cbfbd4b865a"
+metafile = true
+
+[[files]]
 file = "mods/hexal.pw.toml"
 hash = "f60b7c4df8ee3d1e35c05a23573cc15780f49a616d947f37d1e9bff02007633a"
 metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "e85f9f90afb55c37497e82f36a30f497654097b4bda54540d461a91984bea542"
+hash = "dd1ff98088e0cbc0ff42cef65efd3d71488ab4e8dbfe54d870d05283d9677303"
 metafile = true
 
 [[files]]
@@ -60,8 +75,18 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "bca86d119a19ae8230096c59cb770214740f322e8c0bc2659e33414781dcdb87"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]
