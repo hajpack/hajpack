@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/hajpack/assets/minecraft/texts/splashes.txt"
-hash = "257c868194c39558070bff039c671c7c465c13832293b3286658461cb3284fa3"
+hash = "2b240d85167170d12b77fcf0bb97e97f7385e784e5abad21c063249001497f0a"
 
 [[files]]
 file = "resourcepacks/hajpack/assets/minecraft/textures/gui/title/background/panorama_0.png"
@@ -120,3 +120,7 @@ hash = "c80421d890915213f297a88876cd7b9f4381fe3d593b36e630a3b8e1c0863d68"
 [[files]]
 file = "resourcepacks/hajpack/pack.mcmeta"
 hash = "8f95f14b3ecf1c033c2b698f2655196fca2321bd5eed98771509844b9bd9a8e6"
+
+[[files]]
+file = "resourcepacks/hajpack/pack.png"
+hash = "931ce16d2ae55e9402a51034771e6bd90f7678aafc80ce853f1d6b9998d3fcf4"
