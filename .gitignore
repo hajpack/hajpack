@@ -3,7 +3,3 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
-
-# Exclude server files from running `hajpackserver.sh`
-scripts/*
-!scripts/hajpackserver.sh
