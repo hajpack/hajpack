@@ -1,6 +1,6 @@
 trans rights are human rights!
 hajpack v1-alpha - welcome to buggy hell
-rm -rf /
+you should NOT run rm -rf /
 never gonna give you up
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 contribute contribute contribute contribute contribute
