@@ -10,6 +10,16 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "c6ebb5fe80b62026c9c2460d6079caaa5f7347d7523b5c6baa4f28295f05663d"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "3ad58d3dbe2ccadc6a24b0232dc2111124b1dcfb7123d1a60637351e76274064"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "0c2ef257e81e629a1016ef48089d71c442152ac2a565150456cb979afb663c44"
 metafile = true
@@ -17,6 +27,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
@@ -55,6 +70,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/heracles.pw.toml"
+hash = "5be24164786b21bccdc7356d159bc3e278fa738ce9b5fd35dd3871867285d985"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -75,8 +95,23 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
+file = "mods/prometheus.pw.toml"
+hash = "c143c1da125833d08f4da3a3f7850a6f2dfecb4e029e957a44e33f52a024c2c7"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "4fac1756349c0f723621d5c5c1993e0c2b094b3fdff1bcb5006b7f43d803288c"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
 metafile = true
 
 [[files]]
