@@ -20,6 +20,16 @@ hash = "3ad58d3dbe2ccadc6a24b0232dc2111124b1dcfb7123d1a60637351e76274064"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "c6ebb5fe80b62026c9c2460d6079caaa5f7347d7523b5c6baa4f28295f05663d"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "3ad58d3dbe2ccadc6a24b0232dc2111124b1dcfb7123d1a60637351e76274064"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "0c2ef257e81e629a1016ef48089d71c442152ac2a565150456cb979afb663c44"
 metafile = true
@@ -130,13 +140,8 @@ hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
-file = "mods/resourceful-lib.pw.toml"
-hash = "4fac1756349c0f723621d5c5c1993e0c2b094b3fdff1bcb5006b7f43d803288c"
-metafile = true
-
-[[files]]
-file = "mods/searchables.pw.toml"
-hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
+file = "mods/rei.pw.toml"
+hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
 metafile = true
 
 [[files]]
