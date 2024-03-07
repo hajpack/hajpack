@@ -11,3 +11,6 @@ hash = "59857b1ce1e32ebbf1678a0b21b0bea04fb1113a595450134132de5a3bd67860"
 [versions]
 fabric = "0.15.7"
 minecraft = "1.20.1"
+
+[options]
+no-internal-hashes = true
