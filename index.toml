@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b3561d15b4cb62add9bf7211dd2b13c73762f156546602081b8185c0027f41aa"
+hash = "50f9ab49102ca3224697e73808c2588f8581723581ad6e12f1970687df393ca9"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -98,3 +98,35 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
+
+[[files]]
+file = "resourcepacks/hajpack/assets/minecraft/texts/splashes.txt"
+hash = "257c868194c39558070bff039c671c7c465c13832293b3286658461cb3284fa3"
+
+[[files]]
+file = "resourcepacks/hajpack/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "88fe8a06db4dfeaf5607416d6a5bc399b6cbe0c0f6deaa4bd6e3d61b8f25cd19"
+
+[[files]]
+file = "resourcepacks/hajpack/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "a1c93e4cc4e6f73a63085351a83287a50f85c7ac636ce4fdeddd7951e3d71963"
+
+[[files]]
+file = "resourcepacks/hajpack/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "7800c9e5edca3a3fc7898cd25ef9694b019a21abebe5871d59a1e109a144f561"
+
+[[files]]
+file = "resourcepacks/hajpack/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "b7621482ce31ffcd1559950ce74004115676c95d1bd6fef6e72c130e246ffc69"
+
+[[files]]
+file = "resourcepacks/hajpack/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "b6efdd4c353b9207c055e68822477dd9e1fce6a2c9013f1edf0970b7f079565e"
+
+[[files]]
+file = "resourcepacks/hajpack/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "c80421d890915213f297a88876cd7b9f4381fe3d593b36e630a3b8e1c0863d68"
+
+[[files]]
+file = "resourcepacks/hajpack/pack.mcmeta"
+hash = "8f95f14b3ecf1c033c2b698f2655196fca2321bd5eed98771509844b9bd9a8e6"
