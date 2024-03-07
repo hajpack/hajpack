@@ -1,0 +1,13 @@
+name = "Prometheus"
+filename = "prometheus-fabric-1.20.1-1.2.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iYcNKH7W/versions/QVuiyetC/prometheus-fabric-1.20.1-1.2.4.jar"
+hash-format = "sha1"
+hash = "53234169d3d78ccefa77744f7bbb8e159402e72e"
+
+[update]
+[update.modrinth]
+mod-id = "iYcNKH7W"
+version = "QVuiyetC"
