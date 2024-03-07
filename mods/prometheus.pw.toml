@@ -1,6 +1,6 @@
 name = "Prometheus"
 filename = "prometheus-fabric-1.20.1-1.2.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/iYcNKH7W/versions/QVuiyetC/prometheus-fabric-1.20.1-1.2.4.jar"
