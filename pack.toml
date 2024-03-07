@@ -9,3 +9,6 @@ file = "index.toml"
 [versions]
 fabric = "0.15.7"
 minecraft = "1.20.1"
+
+[options]
+no-internal-hashes = true
