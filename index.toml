@@ -20,6 +20,26 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "f88b04c5b537da9f1d032e3c9dff56648d9c19b7658af065f11d618f5c1c3fdd"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "b65744fcf3ebfd08258a1d930f7821dd9b9df32f88295433b2bbdb9d4d78664d"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
 metafile = true
@@ -57,11 +77,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
 metafile = true
 
 [[files]]
