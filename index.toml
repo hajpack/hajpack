@@ -60,10 +60,6 @@ file = "mods/heracles.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 metafile = true
 
@@ -76,10 +72,6 @@ file = "mods/krypton.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/libipn.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 metafile = true
 
@@ -89,6 +81,10 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
 metafile = true
 
 [[files]]
