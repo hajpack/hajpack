@@ -25,6 +25,10 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
+file = "mods/ducky-periphs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "f88b04c5b537da9f1d032e3c9dff56648d9c19b7658af065f11d618f5c1c3fdd"
 metafile = true
@@ -103,11 +107,6 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
-file = "mods/plethora-peripherals.pw.toml"
-hash = "f23233ce5f9350e80d90d059633f8b946c732bc52175027fd777eac17952e65b"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
@@ -115,6 +114,11 @@ metafile = true
 [[files]]
 file = "mods/paucal.pw.toml"
 hash = "70bd66a50cefdb56ffcdaf54c4759bbf1f74ec18af9ab1803ee2c03f5e0df4b2"
+metafile = true
+
+[[files]]
+file = "mods/plethora-peripherals.pw.toml"
+hash = "f23233ce5f9350e80d90d059633f8b946c732bc52175027fd777eac17952e65b"
 metafile = true
 
 [[files]]
