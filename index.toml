@@ -10,6 +10,11 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "6746da76c549fd72088cc1ca93ab31e61837d13b76edf64f3006898713004fe4"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "0c2ef257e81e629a1016ef48089d71c442152ac2a565150456cb979afb663c44"
 metafile = true
@@ -17,6 +22,26 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "f88b04c5b537da9f1d032e3c9dff56648d9c19b7658af065f11d618f5c1c3fdd"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "b65744fcf3ebfd08258a1d930f7821dd9b9df32f88295433b2bbdb9d4d78664d"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
 metafile = true
 
 [[files]]
@@ -35,6 +60,25 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "11312f710b3e2b35fbecc7b0a6406d630634680f13a0a3d640e19cbfbd4b865a"
+metafile = true
+
+[[files]]
+file = "mods/hexal-fabric-1.20.1-0.3.0-2.jar"
+hash = "934a3dbd3118f5982527dff8735aa93b3a9a4ebe8cd5f575fd6e570d84af0e33"
+
+[[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "dd1ff98088e0cbc0ff42cef65efd3d71488ab4e8dbfe54d870d05283d9677303"
+metafile = true
+
+[[files]]
+file = "mods/hexdim.pw.toml"
+hash = "6519868350b3491b263ed9c5467315e6b4dc99195de991238b911aee1fbba802"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -50,6 +94,10 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/moreiotas-fabric-1.20.1-0.1.0-4.jar"
+hash = "9cc2e20e1b067944ba6ef76b9751705b172a6ebf7766bf62b5d87c8875f3d166"
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -59,14 +107,18 @@ file = "mods/plethora-peripherals.pw.toml"
 hash = "f23233ce5f9350e80d90d059633f8b946c732bc52175027fd777eac17952e65b"
 metafile = true
 
-[[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
+file = "mods/patchouli.pw.toml"
+hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
+file = "mods/paucal.pw.toml"
+hash = "70bd66a50cefdb56ffcdaf54c4759bbf1f74ec18af9ab1803ee2c03f5e0df4b2"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
