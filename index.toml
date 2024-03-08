@@ -107,6 +107,7 @@ file = "mods/plethora-peripherals.pw.toml"
 hash = "f23233ce5f9350e80d90d059633f8b946c732bc52175027fd777eac17952e65b"
 metafile = true
 
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
