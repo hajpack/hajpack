@@ -26,6 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/ducky-periphs.pw.toml"
+hash = "ad0b1c92bf3db21f58b6c609e2da6cd303afedda9973000456e7e3886f906e89"
 metafile = true
 
 [[files]]
@@ -158,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/hajpack/assets/minecraft/texts/splashes.txt"
-hash = "257c868194c39558070bff039c671c7c465c13832293b3286658461cb3284fa3"
+hash = "2b240d85167170d12b77fcf0bb97e97f7385e784e5abad21c063249001497f0a"
 
 [[files]]
 file = "resourcepacks/hajpack/assets/minecraft/textures/gui/title/background/panorama_0.png"
