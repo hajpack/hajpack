@@ -2,248 +2,196 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "50f9ab49102ca3224697e73808c2588f8581723581ad6e12f1970687df393ca9"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
 file = "mods/argonauts.pw.toml"
-hash = "2747782d63fe127c4a65342366b2954caf7ea294f4d23e21d9ef89d377c4aa35"
 metafile = true
 
 [[files]]
 file = "mods/cadmus.pw.toml"
-hash = "f4982fea54ddc4bed17d82bf1f07cb8106b6d10878d0b61310e239a4f3689903"
 metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "6746da76c549fd72088cc1ca93ab31e61837d13b76edf64f3006898713004fe4"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "0c2ef257e81e629a1016ef48089d71c442152ac2a565150456cb979afb663c44"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
 file = "mods/ducky-periphs.pw.toml"
-hash = "ad0b1c92bf3db21f58b6c609e2da6cd303afedda9973000456e7e3886f906e89"
 metafile = true
 
 [[files]]
 file = "mods/emi-enchanting.pw.toml"
-hash = "f88b04c5b537da9f1d032e3c9dff56648d9c19b7658af065f11d618f5c1c3fdd"
 metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "b65744fcf3ebfd08258a1d930f7821dd9b9df32f88295433b2bbdb9d4d78664d"
 metafile = true
 
 [[files]]
 file = "mods/emitrades.pw.toml"
-hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "11312f710b3e2b35fbecc7b0a6406d630634680f13a0a3d640e19cbfbd4b865a"
 metafile = true
 
 [[files]]
 file = "mods/heracles.pw.toml"
-hash = "5be24164786b21bccdc7356d159bc3e278fa738ce9b5fd35dd3871867285d985"
 metafile = true
 
 [[files]]
 file = "mods/hexal-fabric-1.20.1-0.3.0-2.jar"
-hash = "934a3dbd3118f5982527dff8735aa93b3a9a4ebe8cd5f575fd6e570d84af0e33"
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "e85f9f90afb55c37497e82f36a30f497654097b4bda54540d461a91984bea542"
 metafile = true
 
 [[files]]
 file = "mods/hexxy-dimensions-1.3.0.jar"
-hash = "118c3efb53e7cf1ac1ee86d729083da9f01ab5508d21f9a56372faf70f6fbb73"
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "f150264c0991c3faa578a2669ccfb3964850f6d759acc84dad0b545abd9c8915"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "169c556d113a560237df18bd07a7247ffb747cf0d5be105462dfa55f5a19c0e1"
 metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "996bf4e23ceb3ebe203859eda250fddf210babc15b5683fe585159a9398e4d70"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
 file = "mods/moreiotas-fabric-1.20.1-0.1.0-4.jar"
-hash = "9cc2e20e1b067944ba6ef76b9751705b172a6ebf7766bf62b5d87c8875f3d166"
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "0a42eb060173bf1994e480d160de17d8a61af01758fc1c6b70f9a42dba75d61b"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]
 file = "mods/paucal.pw.toml"
-hash = "70bd66a50cefdb56ffcdaf54c4759bbf1f74ec18af9ab1803ee2c03f5e0df4b2"
 metafile = true
 
 [[files]]
 file = "mods/plethora-peripherals.pw.toml"
-hash = "f23233ce5f9350e80d90d059633f8b946c732bc52175027fd777eac17952e65b"
 metafile = true
 
 [[files]]
 file = "mods/prometheus.pw.toml"
-hash = "ede56c4e3ff6aebbde2646ce73223f4285dab6c19144f9d09097b8e1fa9bf4f5"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "4fac1756349c0f723621d5c5c1993e0c2b094b3fdff1bcb5006b7f43d803288c"
 metafile = true
 
 [[files]]
 file = "mods/sc-peripherals.pw.toml"
-hash = "8b8b0018f73b75bb02f3b477bfd2feefdb8a2fc5922aee1647974593188a9164"
 metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
 metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "f2855ca462a5ef36206a941612989aed049b1cd49559f0f2d4d247505566e546"
 metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
 file = "resourcepacks/hajpack/assets/minecraft/texts/splashes.txt"
-hash = "2b240d85167170d12b77fcf0bb97e97f7385e784e5abad21c063249001497f0a"
 
 [[files]]
 file = "resourcepacks/hajpack/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "88fe8a06db4dfeaf5607416d6a5bc399b6cbe0c0f6deaa4bd6e3d61b8f25cd19"
 
 [[files]]
 file = "resourcepacks/hajpack/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "a1c93e4cc4e6f73a63085351a83287a50f85c7ac636ce4fdeddd7951e3d71963"
 
 [[files]]
 file = "resourcepacks/hajpack/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "7800c9e5edca3a3fc7898cd25ef9694b019a21abebe5871d59a1e109a144f561"
 
 [[files]]
 file = "resourcepacks/hajpack/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "b7621482ce31ffcd1559950ce74004115676c95d1bd6fef6e72c130e246ffc69"
 
 [[files]]
 file = "resourcepacks/hajpack/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "b6efdd4c353b9207c055e68822477dd9e1fce6a2c9013f1edf0970b7f079565e"
 
 [[files]]
 file = "resourcepacks/hajpack/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "c80421d890915213f297a88876cd7b9f4381fe3d593b36e630a3b8e1c0863d68"
 
 [[files]]
 file = "resourcepacks/hajpack/pack.mcmeta"
-hash = "8f95f14b3ecf1c033c2b698f2655196fca2321bd5eed98771509844b9bd9a8e6"
