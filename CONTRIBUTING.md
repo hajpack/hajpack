@@ -68,8 +68,6 @@ After the initial setup, you can run the following command to start the server:
 If you have a mod suggestion, please open an pull request or issue with the mod suggestion.
 
 #### Commits
-> 💡 This section is out of date! Please check the [Branches](#branches) section for more information!
 When making commits that are not hotfixes, please open a pull request and wait for it to be reviewed before merging it.
 
-#### Branches
-Commits should be made to the `dev` branch, and then merged into `main` when they are ready to be released. This is so it doesnt take ages to add a new mod to the pack.
+During early stages of the pack mods should be added in batches to make it easier generally.
