@@ -15,7 +15,7 @@ metafile = true
 file = "mods/cadmus.pw.toml"
 metafile = true
 
-[[files]
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 metafile = true
 
