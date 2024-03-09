@@ -28,6 +28,10 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ducky-periphs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 metafile = true
 
@@ -125,6 +129,10 @@ file = "mods/paucal.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/plethora-peripherals.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
@@ -142,6 +150,10 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
 metafile = true
 
 [[files]]
