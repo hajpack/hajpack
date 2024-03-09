@@ -195,3 +195,6 @@ file = "resourcepacks/hajpack/assets/minecraft/textures/gui/title/background/pan
 
 [[files]]
 file = "resourcepacks/hajpack/pack.mcmeta"
+
+[[files]]
+file = "resourcepacks/hajpack/pack.png"
