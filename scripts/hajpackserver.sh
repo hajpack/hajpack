@@ -34,7 +34,7 @@ cleanup() {
         rm -rfvI * .*
         cp /tmp/hajpackserver.sh hajpackserver.sh
     else
-        echo "[INFO] Aborted deletion"; 
+        echo "[INFO] Aborted deletion"
     fi
 }
 
@@ -50,10 +50,10 @@ run() {
 
     # run packwiz
     echo "[INFO] Running packwiz installer with server at $1" 
-    java -jar packwiz-installer-bootstrap.jar -g -s server $1
+    /usr/lib/jvm/java-17-openjdk/bin/java -jar packwiz-installer-bootstrap.jar -g -s server $1
 
     # run server (if you want to change the server command, change it here!)
-    command="java -Xmx$ram -Xms$ram -jar server.jar"
+    command="/usr/lib/jvm/java-17-openjdk/bin/java -Xmx$ram -Xms$ram -jar server.jar"
     if [ $3 == false ]; then command="$command nogui"; fi
     echo "[INFO] Running server with command: $command"
     eval $command
