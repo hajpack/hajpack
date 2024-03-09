@@ -8,6 +8,14 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 metafile = true
 
@@ -21,6 +29,10 @@ metafile = true
 
 [[files]]
 file = "mods/ducky-periphs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
 metafile = true
 
 [[files]]
@@ -52,6 +64,18 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/heracles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 metafile = true
 
@@ -74,7 +98,15 @@ file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
 metafile = true
 
 [[files]]
@@ -82,6 +114,10 @@ file = "mods/moreiotas-fabric-1.20.1-0.1.0-4.jar"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/prometheus.pw.toml"
 metafile = true
 
 [[files]]
@@ -98,6 +134,14 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
 metafile = true
 
 [[files]]
