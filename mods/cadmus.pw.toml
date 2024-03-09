@@ -1,0 +1,13 @@
+name = "Cadmus"
+filename = "cadmus-fabric-1.20.1-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fEWKxVzh/versions/UybXEq7f/cadmus-fabric-1.20.1-1.0.7.jar"
+hash-format = "sha1"
+hash = "a2d421cce45bfdb209954283f134be35240a1b2d"
+
+[update]
+[update.modrinth]
+mod-id = "fEWKxVzh"
+version = "UybXEq7f"
