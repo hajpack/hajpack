@@ -4,6 +4,14 @@ hash-format = "sha256"
 file = "config/yosbr/options.txt"
 
 [[files]]
+file = "mods/ae2.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 metafile = true
 
