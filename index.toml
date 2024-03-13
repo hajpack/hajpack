@@ -149,10 +149,6 @@ file = "mods/resourceful-lib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sc-peripherals.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 metafile = true
 
