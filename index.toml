@@ -32,11 +32,15 @@ file = "mods/controlling.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ducky-periphs.pw.toml"
+file = "mods/elytras-plus.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/elytras-plus.pw.toml"
+file = "mods/dcwa.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ducky-periphs.pw.toml"
 metafile = true
 
 [[files]]
@@ -84,6 +88,10 @@ metafile = true
 
 [[files]]
 file = "mods/hexxy-dimensions-1.3.0.jar"
+
+[[files]]
+file = "mods/indium.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
