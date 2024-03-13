@@ -32,15 +32,15 @@ file = "mods/controlling.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/elytras-plus.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/dcwa.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/ducky-periphs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/elytras-plus.pw.toml"
 metafile = true
 
 [[files]]
@@ -167,6 +167,9 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/travelers-backpack-1.20.1-9.1.9.jar"
 
 [[files]]
 file = "mods/trinkets.pw.toml"
