@@ -161,7 +161,8 @@ file = "mods/sodium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/travelers-backpack-1.20.1-9.1.9.jar"
+file = "mods/travelersbackpack.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
