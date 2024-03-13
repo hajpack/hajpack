@@ -4,6 +4,10 @@ hash-format = "sha256"
 file = "config/yosbr/options.txt"
 
 [[files]]
+file = "mods/ae2-emi-crafting.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 metafile = true
 
