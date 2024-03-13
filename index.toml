@@ -8,6 +8,10 @@ file = "mods/ae2.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/applied-botanics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 metafile = true
 
@@ -17,6 +21,10 @@ metafile = true
 
 [[files]]
 file = "mods/argonauts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
 metafile = true
 
 [[files]]
