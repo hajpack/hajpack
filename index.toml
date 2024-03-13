@@ -32,15 +32,15 @@ file = "mods/controlling.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/elytras-plus.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/dcwa.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/ducky-periphs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/elytras-plus.pw.toml"
 metafile = true
 
 [[files]]
@@ -150,10 +150,6 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sc-peripherals.pw.toml"
 metafile = true
 
 [[files]]
