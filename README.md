@@ -36,7 +36,6 @@ Originally it was planned to be specifically for the server, however it was deci
     <td class="tg-0pky"><img src="https://github.com/walksanatora.png" width="100" height="100"></td>
     <td class="tg-0pky"><img src="https://github.com/exhq.png" width="100" height="100"></td>
     <td class="tg-0pky"><img src="https://github.com/nixos-goddess.png" width="100" height="100"></td>
-    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky"><a herf="https://github.com/gaussandhisgun">Gravitos</a></td>
@@ -46,4 +45,4 @@ Originally it was planned to be specifically for the server, however it was deci
   </tr>
 </tbody>
 </table>
-</div>                  |
+</div>                  
